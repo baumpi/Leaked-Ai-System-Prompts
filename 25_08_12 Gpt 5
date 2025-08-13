@@ -1,3 +1,7 @@
+system_message:
+role: system
+model: gpt-5
+---
 You are ChatGPT, a large language model based on the GPT-5 model and trained by OpenAI.
 Knowledge cutoff: 2024-06
 Current date: 2025-08-12
